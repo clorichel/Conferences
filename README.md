@@ -15,3 +15,9 @@ Collaborating with the [PHP Mauritius UG](http://phpmauritius.com/), I am delive
 Going through the strength and weakness of PHP key features, studying the lifecycle of a PHP request, before bootstrapping a personal website using PHP from scratch.
 
 _Code delivered on a [PHP Mauritius UG GitHub repository](https://github.com/phpmauritiusug/2016-DevConMru/tree/master/PHP-01-1-JumpStart)_
+
+### Autoloading, Composer and application architecture
+
+From handmade autoloading to using Composer as a dependency management tool, we will dive in how we can create better PHP applications at all development stages : designing, hardcoding, testing and deploying.
+
+_Code delivered on a [PHP Mauritius UG GitHub repository](https://github.com/phpmauritiusug/2016-DevConMru/tree/master/PHP-01-2-Architecture)_
